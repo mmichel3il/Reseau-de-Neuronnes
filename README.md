@@ -1,4 +1,4 @@
-# R-seau-de-Neuronnes
+# Reseau-de-Neuronnes
 ### Exercice 1 : 
 - Heaviside : une fonction échelon qui renvoie 0 pour z<0 sinon 1  
 Dérivée nulle partout  
